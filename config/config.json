@@ -1,14 +1,14 @@
 {
   "theme": {
-    "slug": "",
-    "name": "",
+    "slug": "allstate-theme",
+    "name": "Allstate Exteriors Theme",
     "author": "Art Unlimited",
     "PHPNamespace": "WP_Rig\\WP_Rig"
   },
   "dev": {
     "browserSync": {
       "live": true,
-      "proxyURL": "",
+      "proxyURL": "allstate.artunlimitedproof1.test",
       "bypassPort": "8181",
       "https": true
     }
