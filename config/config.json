@@ -1,0 +1,16 @@
+{
+  "theme": {
+    "slug": "",
+    "name": "",
+    "author": "Art Unlimited",
+    "PHPNamespace": "WP_Rig\\WP_Rig"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "",
+      "bypassPort": "8181",
+      "https": true
+    }
+  }
+}
