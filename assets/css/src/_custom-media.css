@@ -12,7 +12,10 @@
 @custom-media --mobile-device-laptop-lg screen and (max-width: 1440px);
 @custom-media --mobile-device-laptop-lg-min screen and (min-width: 1440px);
 @custom-media --mobile-device-laptop screen and (max-width: 1024px);
+@custom-media --mobile-device-laptop-min screen and (min-width: 1024px);
 @custom-media --mobile-device-laptop-sub screen and (max-width: 1023px);
+@custom-media --mobile-device-custom-one screen and (max-width: 800px);
+@custom-media --mobile-device-custom-two screen and (max-width: 1000px);
 @custom-media --mobile-device-tablet screen and (max-width: 768px);
 @custom-media --mobile-device-phone-L screen and (max-width: 425px);
 @custom-media --mobile-device-phone-M screen and (max-width: 375px);

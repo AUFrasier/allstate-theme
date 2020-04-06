@@ -29,6 +29,8 @@ $headerClass = is_front_page() ? 'site-header' : 'site-header-subpage';
 	?>
 
 	<?php wp_head(); ?>
+	<link rel="stylesheet" href="https://use.typekit.net/psy4zev.css">
+	<script src="https://kit.fontawesome.com/8ad5d35c6d.js" crossorigin="anonymous"></script>
 </head>
 
 <body <?php body_class(); ?>>

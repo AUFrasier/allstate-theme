@@ -8,6 +8,6 @@
 namespace WP_Rig\WP_Rig;
 ?>
 
-<div class="hero-action">
-    <a href="/contact-us"><div id="hero-btn"><span></span></div></a>
+<div class="hero-action pb-5">
+    <a href="/free-estimate"><div id="hero-btn"><span>Get A Free Estimate Now</span></div></a>
 </div><!-- .hero-action -->

@@ -19,3 +19,4 @@ global $post;
 	<?php the_excerpt(); ?>
 	<a class="read-more" href="<?php the_permalink();?>">Read more...</a>
 </div><!-- .entry-summary -->
+<?php get_template_part( 'template-parts/partials/bar'); ?>

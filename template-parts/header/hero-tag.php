@@ -8,6 +8,6 @@
 namespace WP_Rig\WP_Rig;
 ?>
 
-<div id="hero-tag">
-    <span><a href=""></a></span>
+<div class="hero-tag">
+    <span>Best Product. Best Warranties. Best Service. Period.</span>
 </div><!-- .hero-tag -->

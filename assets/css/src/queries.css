@@ -1,14 +1,118 @@
 @import "_custom-media.css";
 
+@media (--mobile-device-laptop-lg-min) {
+    .one.connect {
+        display: none;
+    }
+}
+@media (--mobile-device-laptop-min) {
+    .grid > div {
+        padding: 40px;
+    }
+}
+@media (--mobile-device-laptop) {
+}
+@media (--mobile-device-custom-one) {
+    .piece:after,
+    .piece:not(:first-child).red:before,
+    .piece.dark:before,
+    .piece.dark:after {
+        content: none;
+    }
+    .piece {
+        width: 100%;
+        margin: 15px 45px;
+    }
+}
+@media (--mobile-device-custom-two) {
+    #one:before,
+    #one:after,
+    #two:after,
+    #three:after,
+    #five:after,
+    #four:after {
+        content: none;
+    }
+    .wrap-2-svg {
+        display: none;
+    }
+}
 @media (--mobile-device-laptop-sub) {
-
+    .grid {
+        grid-template-columns: none;
+        background: none;
+    }
+    .grid > div {
+        background: none;
+    }
+    .grid-text {
+        font-size: 18px;
+    }
 }
 @media (--mobile-device-tablet) {
-
+    .mobile-navigation {
+        display: block !important;
+	}
+	.main-navigation {
+        display: none !important;
+    }
+    .site-header-subpage {
+        border-bottom: 15px solid var(--secondary-color);
+    }
+    .not-a-page {
+        display: none !important;
+    }
+    .top-first {
+        flex-direction: column;
+    }
+    .grid-item div:first-child {
+        margin: 20px auto!important;
+    }
+    .grid-item>div:after {
+        width: 60%;
+        left: 20%;
+    }
+    .header-contact-wrapper {
+        order: 1;
+        margin: 10px 5px;
+    }
+    .section-header {
+        padding: 0 !important;
+    }
+    .wrap-1-end .wrap-box {
+        top: 370px;
+    }
+    .footer-image-row img { 
+        float:none !important;
+    }
+    .footer-menu {
+        text-align:center;
+    }
+    #address-info {
+        text-align:center;
+    }
+    .grid-item:nth-child(5) {
+        order: 1;
+    }
 }
 
 @media (--mobile-device-phone-L) {
-
+    #bond {
+        padding: 0;
+    }
+    #contact-info a {
+        font-size: 20px;
+    }
+    .post-navigation {
+        padding: 0 !important;
+        margin-top: 50px !important;
+    }
+    .hero-box-text {
+        height: auto;
+    }
+    .testimonial {
+        margin: 10px;
+    }
 }
 
 @media (--mobile-device-phone-S) {

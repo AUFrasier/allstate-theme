@@ -101,7 +101,7 @@ class Component implements Component_Interface, Templating_Component_Interface {
 	 * @return bool True if the primary sidebar is active, false otherwise.
 	 */
 	public function is_primary_sidebar_active() : bool {
-		return (bool) is_active_sidebar( static::PRIMARY_SIDEBAR_SLUG );
+		return (bool) false /* is_active_sidebar( static::PRIMARY_SIDEBAR_SLUG ); */ ;
 	}
 
 	/**

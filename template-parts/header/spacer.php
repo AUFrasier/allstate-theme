@@ -9,4 +9,4 @@ namespace WP_Rig\WP_Rig;
 
 ?>
 
-<div class="spacer"></div><!-- .spacer -->
+<div class="spacer mt-3 mb-3"></div><!-- .spacer -->

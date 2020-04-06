@@ -35,16 +35,15 @@ if ($related_query->have_posts()):?>
 						$extra_class = ' related-thumb-text';
 					}
 				?>
-				<div class="related-post">
-					<div class="related-thumb<?php echo $extra_class; ?>">
-						<a href="<?php the_permalink() ?>" rel="bookmark">
-							<?php echo $img; ?>
-						</a>
-					</div>
-
+				<div class="related-post pt-3 pb-3">
 					<div class="related-title">
 						<a href="<?php the_permalink() ?>" rel="bookmark">
 							<?php the_title(); ?>
+						</a>
+					</div>
+					<div class="related-thumb<?php echo $extra_class; ?>">
+						<a href="<?php the_permalink() ?>" rel="bookmark">
+							<?php echo $img; ?>
 						</a>
 					</div>
 				</div>
