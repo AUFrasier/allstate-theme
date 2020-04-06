@@ -4,46 +4,46 @@
 /* CUSTOM FONTS */
 @font-face {
 	font-family: Bank Gotihic;
-	src: url(../fonts/BankGothicBold.ttf);
+	src: url(/wp-content/fonts/BankGothicBold.ttf);
 	font-weight: 700;
 }
 @font-face {
 	font-family: PT Sans;
-	src: url(../fonts/PT_Sans/PTSans-Bold.ttf);
+	src: url(/wp-content/fonts/PT_Sans/PTSans-Bold.ttf);
 	font-weight: 900;
 }
 @font-face {
 	font-family: PT Sans Regular;
-	src: url(../fonts/PT_Sans/PTSans-Regular.ttf);
+	src: url(/wp-content/fonts/PT_Sans/PTSans-Regular.ttf);
 }
 @font-face {
 	font-family: Roboto;
-	src: url(../fonts/Roboto/Roboto-Black.ttf);
+	src: url(/wp-content/fonts/Roboto/Roboto-Black.ttf);
 	font-weight: 900;
 }
 @font-face {
 	font-family: Open Sans;
-	src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+	src: url(/wp-content/fonts/Open_Sans/OpenSans-Regular.ttf);
 	font-weight: 900;
 }
 @font-face {
 	font-family: Open Sans Bold;
-	src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
+	src: url(/wp-content/fonts/Open_Sans/OpenSans-Bold.ttf);
 	font-weight: 900;
 }
 @font-face {
 	font-family: Montserrat;
-	src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+	src: url(/wp-content/fonts/Montserrat/Montserrat-Regular.ttf);
 	font-weight: 900;
 }
 @font-face {
 	font-family: Montserrat Semi Bold;
-	src: url(../fonts/Montserrat/Montserrat-SemiBold.ttf);
+	src: url(/wp-content/fonts/Montserrat/Montserrat-SemiBold.ttf);
 	font-weight: 900;
 }
 @font-face {
 	font-family: Helvetica Neue;
-	src: url(../fonts/HelveticaNeue-Medium.otf);
+	src: url(/wp-content/fonts/HelveticaNeue-Medium.otf);
 }
 /*--------------------------------------------------------------
 ## Header / Hero
