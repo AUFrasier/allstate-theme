@@ -42,7 +42,7 @@ namespace WP_Rig\WP_Rig;
                     <img src="<?=get_template_directory_uri()?>/assets/images/Family-Pic.jpg" alt="">
                 </div>
                 <div class="wrap-text col-lg-6 col-sm-12 p-4">
-                    <p>Your Home And Family Is Our Priority! Feel the peace of mind that comes with an Allstate Roof.</p>
+                    <p>Your Home And Family Is Our Priority! </br> Feel the peace of mind that comes with an Allstate Roof.</p>
                     <p>We believe in providing  only the industry’s best materials for your home. We only employee the best installers to work on your home. We provide you with the best and most trusted warranties in the industry. We are in the top 1% of roofing contractors in the nation.  We are a Platinum Preferred Contractor.</p>
                     <?php get_template_part('template-parts/partials/action-button') ?>
                 </div>

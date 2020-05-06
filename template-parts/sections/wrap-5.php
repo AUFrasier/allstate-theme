@@ -96,4 +96,5 @@ namespace WP_Rig\WP_Rig;
             </div>
         </div>
     </div>
+    <?php get_template_part('template-parts/partials/action-button') ?>
 </div><!-- .wrap-5 -->

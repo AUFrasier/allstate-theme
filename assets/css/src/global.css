@@ -420,12 +420,18 @@ select {
 .menu-item-has-children:hover .sub-menu {
     display: block;
 }
+.sub-menu {
+    width: 200px;
+}
 .sub-menu li a {
 	padding: 5px 10px;
+	font-weight: 200 !important;
+    font-size: 16px;
 }
 .main-navigation .sub-menu {
 	background: var(--secondary-color);
-    position: absolute;
+	position: absolute;
+	left: -59px;
 }
 
 /*--------------------------------------------------------------

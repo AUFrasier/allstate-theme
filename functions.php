@@ -155,6 +155,8 @@ function mytheme_enqueue_styles() {
 	}
 	wp_register_style('queries', get_stylesheet_directory_uri() . '/assets/css/queries.min.css');
 	wp_enqueue_style('queries');
+	wp_register_style('theme-style', get_stylesheet_directory_uri() . '/style.css');
+	wp_enqueue_style('theme-style');
 }
 add_action( 'wp_enqueue_scripts', 'mytheme_enqueue_styles' );
 

@@ -15,9 +15,11 @@ namespace WP_Rig\WP_Rig;
                 <img src="<?= get_template_directory_uri()?>/assets/images/oc-platinum-img.png" alt="Owens Corning">
             </div>
             <div class="hero-box-text col-lg-8 col-md-8 col-sm-12 bg-white p-3 text-left">
-                <div class="box-title d-inline-block m-2 text-center">
-                    <span>Select Status</span>
-                </div>
+                <a target="_blank" href="https://www.owenscorning.com/roofing/contractors/contractor-profile/210733">
+                    <div class="box-title d-inline-block m-2 text-center">
+                        <span>Select Status</span>
+                    </div>
+                </a>
                 <div class="box-text text-left p-2">
                     <span>Allstate Exteriors is in an elite class of roofing professionals dedicated to service, reliability, and professional craftsmanship.</span>  
                 </div>

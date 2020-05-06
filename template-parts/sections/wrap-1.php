@@ -90,7 +90,7 @@ namespace WP_Rig\WP_Rig;
                                 <img src="<?= get_template_directory_uri()?>/assets/images/oc-top-of-the-house.jpg" alt="OC Top">
                             </div>
                             <div class="col-6">
-                                <img src="<?= get_template_directory_uri()?>/assets/images/home-adv.jpg" alt="Home Advisor">
+                                <img style="width: 110px;" src="<?= get_template_directory_uri()?>/assets/images/home-advisor-badge.png" alt="Home Advisor">
                             </div>
                         </div>
                     </div>
