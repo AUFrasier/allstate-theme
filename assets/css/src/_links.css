@@ -4,7 +4,7 @@
 # Links
 --------------------------------------------------------------*/
 /* stylelint-disable */
-a {
+a:not(.kt-button) {
 	color: var(--color-link) !important;
 }
 /* stylelint-enable */
@@ -13,9 +13,9 @@ a:visited {
 	text-decoration: none !important;
 }
 
-a:hover,
-a:focus,
-a:active {
+a:hover:not(.kt-button),
+a:focus:not(.kt-button),
+a:active:not(.kt-button) {
 	color: var(--color-link-active) !important;
 	text-decoration: none !important;
 }

@@ -275,6 +275,7 @@ select {
     text-align: center;
 	z-index: 1;
 	margin: 5px auto;
+	z-index: 11;
 }
 .main-navigation a {
 	display: block;
