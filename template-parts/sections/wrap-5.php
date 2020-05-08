@@ -54,16 +54,16 @@ namespace WP_Rig\WP_Rig;
             <div id="one" class="spot discovery shadow m-4">
                 <span>DISCOVERY</span>
                 <p>
-                    You give us a call and speak to an Allstate Representative about the work that need completed.  We'll set a time for you to meet with one of our expert Project Managers </br></br>
+                    You give us a call and speak to an Allstate Representative about the work that needs completed.  We'll set a time for you to meet with one of our expert Project Managers </br></br>
                     Our Project Manager does a thorough inspection and provides you with a detailed Digital Analysis. </br></br>
-                    We'll see our ground-breaking Arial Image Technology along with physical measurements to put together an appropriate solution that fits your budget.
+                    We'll use our ground-breaking Arial Image Technology along with physical measurements to put together an appropriate solution that fits your budget.
                 </p>
             </div>
             <div id="two" class="spot paperwork shadow m-4">
                 <span>PAPERWORK & APPROVAL</span>
                 <p>
-                    Our Project Manager puts together a detailed paperwork status and turns it into the office.</br></br>
-                    Your paperwork get checked not once, not twice, but three times to ensure everything is 100% accurate.</br></br>
+                    Our Project Manager puts together a detailed paperwork packet and turns it into the office.</br></br>
+                    Your paperwork will get checked not once, not twice, but three times to ensure everything is 100% accurate.</br></br>
                     You receive a welcome call to let you know that everything has been approved.
                 </p>
             </div>
@@ -83,7 +83,7 @@ namespace WP_Rig\WP_Rig;
                     Quality Champion and crew arrive at your house to complete the work.</br></br>
                     Quality Champion meets with you to address any questions or concerns.</br></br>
                     Quality Champion briefs the crew on the project and goes over the scope of work.</br></br>
-                    At the end of the job the Quality Champion does a thorough inspection to ensure the project was completed pre the scope of work and excpectations.
+                    At the end of the job the Quality Champion does a thorough inspection to ensure the project was completed per the scope of work and excpectations.
                 </p>
             </div>
             <div id="five" class="spot closing shadow m-4">

@@ -69,6 +69,9 @@
 	background-color: var(--primary-color);
 	padding: 10px 20px;
 }
+.header-action:hover {
+	background-color: #D72529;
+}
 .header-action span {
     color: white;
     font-family: var(--global-font-family);
@@ -101,6 +104,11 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+}
+.hero-shade {
+	background-color: rgba(0,0,0,0.5);
+	width:100%;
+	height: 100%;
 }
 .hero-content {
 	width: 100%;
@@ -145,6 +153,9 @@
 	margin: auto;
 	background-color: var(--primary-color);
 	padding:10px;
+}
+#hero-btn:hover {
+	background-color: #D72529;
 }
 #hero-btn span {
 	font-size: 20px;
@@ -609,6 +620,9 @@
 	text-transform: uppercase;
 	color:white;
 	text-align: center;
+}
+.action:hover {
+	background-color: #D72529;
 }
 /*--------------------------------------------------------------
 ## Footer

@@ -8,13 +8,15 @@
 namespace WP_Rig\WP_Rig;
 ?>
 
-<div class="hero-container pt-5">
-    <div class="hero-content">
-        <?php get_template_part( 'template-parts/header/hero', 'headline' ); ?>
-        <?php get_template_part( 'template-parts/header/hero', 'tag' ); ?>
-        <?php get_template_part( 'template-parts/header/hero', 'title' ); ?>
-        <?php get_template_part( 'template-parts/header/hero', 'text' ); ?>
-        <?php get_template_part( 'template-parts/header/hero', 'action' ); ?>
-        <?php get_template_part( 'template-parts/header/hero', 'box' ); ?>
-    </div><!-- .hero-content -->
+<div class="hero-container">
+    <div class="hero-shade pt-5">
+        <div class="hero-content">
+            <?php get_template_part( 'template-parts/header/hero', 'headline' ); ?>
+            <?php get_template_part( 'template-parts/header/hero', 'tag' ); ?>
+            <?php get_template_part( 'template-parts/header/hero', 'title' ); ?>
+            <?php get_template_part( 'template-parts/header/hero', 'text' ); ?>
+            <?php get_template_part( 'template-parts/header/hero', 'action' ); ?>
+            <?php get_template_part( 'template-parts/header/hero', 'box' ); ?>
+        </div><!-- .hero-content -->
+    </div>
 </div><!-- .hero-container -->
