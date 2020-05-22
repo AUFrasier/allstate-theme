@@ -16,7 +16,7 @@ if ( ! wp_rig()->is_primary_nav_menu_active() ) {
 <div class="main-navigation">
   <menu class="site-menu">
    <?php 
-     wp_nav_menu("Menu 1");
+     wp_nav_menu("Temp Main Menu");
    ?>
   </menu>
 </div><!-- .main-navigation -->
